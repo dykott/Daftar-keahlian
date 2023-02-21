@@ -4,10 +4,10 @@ main ep ep
 futsall
 Bahasa inggris
 
-**skill diperoleh dari Rucom**
--mengetik 10 jari
--konfigurasi mikrotik melalui ssh
--Freecodecamp.org responsive we design [HTML,CSS,JAVA SCRIPT]
--Visual code studio
--Sololearn [introduction to html,css]
--membuat akun Linkedin dan menghubungkan dengan sololearn
++ ++skill diperoleh dari Rucom++
++mengetik 10 jari
++konfigurasi mikrotik melalui ssh
++Freecodecamp.org responsive we design [HTML,CSS,JAVA SCRIPT]
++Visual code studio
++Sololearn [introduction to html,css]
++membuat akun Linkedin dan menghubungkan dengan sololearn
